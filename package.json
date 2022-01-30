@@ -1,0 +1,19 @@
+{
+  "name": "weather-lcd-led",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "dotenv": "^14.3.2",
+    "lcd": "^3.1.1",
+    "node-fetch": "^2.6.7",
+    "onoff": "^6.0.3"
+  }
+}
